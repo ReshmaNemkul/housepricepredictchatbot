@@ -1,0 +1,26 @@
+{
+    "City": {
+        "Bhairahawa": 0,
+        "Bhaktapur": 1,
+        "Biratnagar": 2,
+        "Chitwan": 3,
+        "Dhading": 4,
+        "Dharan": 5,
+        "Jhapa": 6,
+        "Kapilvastu": 7,
+        "Kaski": 8,
+        "Kathmandu": 9,
+        "Kavre": 10,
+        "Kirtipur": 11,
+        "Lalitpur": 12,
+        "Mahottari": 13,
+        "Makwanpur": 14,
+        "Morang": 15,
+        "Nawalparasi": 16,
+        "Nawalpur": 17,
+        "Pokhara": 18,
+        "Rupandehi": 19,
+        "Surkhet": 20,
+        "Tanahu": 21
+    }
+}

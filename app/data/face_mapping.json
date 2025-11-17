@@ -1,0 +1,12 @@
+{
+    "Face": {
+        "East": 0,
+        "North": 1,
+        "North East": 2,
+        "North West": 3,
+        "South": 4,
+        "South East": 5,
+        "South West": 6,
+        "West": 7
+    }
+}

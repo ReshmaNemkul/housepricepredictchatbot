@@ -1,0 +1,11 @@
+{
+    "Road Type": {
+        " Alley": 0,
+        " Blacktopped": 1,
+        " Concrete": 2,
+        " Gravelled": 3,
+        " Paved": 4,
+        " Soil Stabilized": 5,
+        "Missing": 6
+    }
+}

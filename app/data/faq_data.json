@@ -1,0 +1,428 @@
+{
+  "greetings": {
+  "questions": [
+    "hi",
+    "hello",
+    "hey",
+    "how are you",
+    "good morning",
+    "good afternoon",
+    "good evening"
+  ],
+  "answers": [
+    "Hi there! How can I help you today?",
+    "Hello! I'm here to assist you with house prices and bookings.",
+    "Hey! Great to see you here. Do you need any help?",
+    "I'm good, thanks for asking! How about you?",
+    "Welcome! Need assistance finding a property or predicting a price?"
+  ]},
+  "small_talk": {
+  "questions": [
+    "how's your day",
+    "what's up",
+    "tell me something",
+    "you're smart",
+    "thank you"
+  ],
+  "answers": [
+    "I'm just a bot, but I'm here to make your day easier!",
+    "My day is great! How’s yours?",
+    "Happy to help anytime!",
+    "You're welcome! 😊",
+    "I love chatting while helping with house prices!"
+  ]},
+  "refund_policy": {
+    "questions": [
+      "what is the refund policy",
+      "can i get my money back",
+      "is there a return policy"
+    ],
+    "answer": "Currently, we do not offer refunds after booking confirmation. Please read the terms before booking."
+  },
+  "site_info": {
+    "questions": [
+      "what is this site about",
+      "what can i do on this site",
+      "tell me about this website"
+    ],
+    "answer": "This site helps you predict house prices and book properties."
+  },
+  "developer_info": {
+    "questions": [
+      "who developed this site",
+      "who created this website",
+      "who made this project"
+    ],
+    "answer": "This system was developed as part of a final year project by Reshma and Anisha."
+  },
+  "booking_help": {
+    "questions": [
+      "how to book a house",
+      "how can i book a house",
+      "what is the process to book a house"
+    ],
+    "answer": "Go to the listings page, choose a house, and click on 'Book Now'."
+  },
+  "price_features": {
+    "questions": [
+      "what features affect the price",
+      "what affects house price",
+      "what influences house cost"
+    ],
+    "answer": "Features like area, number of rooms, location, and road access affect the price."
+  },
+  "bot_name": {
+    "questions": [
+      "what is your name",
+      "who are you",
+      "what should i call you"
+    ],
+    "answer": "I am your real estate assistant bot."
+  },
+  "help_offer": {
+    "questions": [
+      "can you help me",
+      "what can you do",
+      "how can you help"
+    ],
+    "answer": "Of course! I can help you with FAQs or predict house prices."
+  },
+  "price_prediction_use": {
+    "questions": [
+      "how to use the price prediction feature",
+      "how to predict house price",
+      "how does price prediction work"
+    ],
+    "answer": "Enter the details of the house in the form and click 'Predict Price'."
+  },
+  "luxury_meaning": {
+    "questions": [
+      "what is the meaning of luxury house",
+      "define luxury house",
+      "what makes a house luxury"
+    ],
+    "answer": "A luxury house typically has high-end features and amenities, such as a swimming pool, gym, and advanced security."
+  },
+  "aana_meaning": {
+    "questions": [
+      "what is the meaning of aana",
+      "what is aana",
+      "explain aana"
+    ],
+    "answer": "Aana is a unit of area measurement used in Nepal, equivalent to 342.25 square feet."
+  },
+  "contact_support": {
+    "questions": [
+      "how can i contact support",
+      "how to reach support",
+      "is there a support team"
+    ],
+    "answer": "You can contact support via the contact form on our website or email us at nemkulreshma8@gmail.com"
+  },
+  "price_prediction_logic": {
+    "questions": [
+      "how is the price predicted",
+      "how do you calculate price",
+      "what is the logic behind price prediction"
+    ],
+    "answer": "We estimate the price based on location, size, and other important features using a machine learning system."
+  },
+  "property_types": {
+    "questions": [
+      "what types of properties are available",
+      "what kind of houses can I book",
+      "do you have different property types"
+    ],
+    "answer": "We offer various property types including apartments, villas, and commercial spaces."
+  },
+  "booking_confirmation": {
+    "questions": [
+      "how do I confirm my booking",
+      "what happens after I book a house",
+      "is my booking confirmed immediately"
+    ],
+    "answer": "After booking, you will receive a confirmation email with all the details."
+  },
+  "house_viewing": {
+    "questions": [
+      "can I view the house before booking",
+      "how to schedule a house viewing",
+      "do you offer house tours"
+    ],
+    "answer": "Yes, you can schedule a viewing by contacting us through the website."
+  },
+  "payment_methods": {
+    "questions": [
+      "what payment methods are accepted",
+      "how can I pay for my booking",
+      "do you accept credit cards"
+    ],
+    "answer": "We accept various payment methods including credit cards, bank transfers, and digital wallets."
+  },
+  "cancellation_policy": {
+    "questions": [
+      "can I cancel my booking",
+      "what is the cancellation policy",
+      "how do I cancel a booking"
+    ],
+    "answer": "Cancellations are allowed within 24 hours of booking. Please refer to our cancellation policy for details."
+  },
+  "user_account": {
+    "questions": [
+      "do I need an account to book",
+      "how do I create an account",
+      "can I manage my bookings online"
+    ],
+    "answer": "Creating an account is optional but recommended for managing your bookings easily."
+  },
+  "property_location": {
+    "questions": [
+      "where are the properties located",
+      "do you have properties in my area",
+      "how can I find properties near me"
+    ],
+    "answer": "You can find properties by searching on our listings page based on your preferred location."
+  },
+  "customer_reviews": {
+    "questions": [
+      "can I leave a review",
+      "how can I share my experience",
+      "do you have customer reviews"
+    ],
+    "answer": "Yes, you can leave a review after your booking is completed. We value your feedback!"
+  },
+  "property_features": {
+    "questions": [
+      "what features do the properties have",
+      "are there any amenities included",
+      "what should I know about the property features"
+    ],
+    "answer": "Each property listing includes detailed information about its features and amenities."
+  },
+  "privacy_policy": {
+    "questions": [
+      "what is your privacy policy",
+      "how do you handle my data",
+      "is my information secure"
+    ],
+    "answer": "We take your privacy seriously. Please read our privacy policy for details on how we protect your information."
+  },
+  "terms_of_service": {
+    "questions": [
+      "what are the terms of service",
+      "where can I find the terms and conditions",
+      "do you have a terms of service document"
+    ],
+    "answer": "You can find our terms of service in the footer of our website or in the 'Terms' section."
+  },
+  "faq_updates": {
+    "questions": [
+      "how often is the FAQ updated",
+      "do you add new questions regularly",
+      "can I suggest a question for the FAQ"
+    ],
+    "answer": "We update our FAQ regularly based on user feedback and common inquiries. Suggestions are welcome!"
+  },
+  "technical_support": {
+    "questions": [
+      "do you offer technical support",
+      "how can I get help with technical issues",
+      "is there a tech support team"
+    ],
+    "answer": "Yes, we have a technical support team available to assist you with any issues you may encounter."
+  },
+  "user_feedback": {
+    "questions": [
+      "how can I provide feedback",
+      "do you accept user suggestions",
+      "can I share my thoughts about the site"
+    ],
+    "answer": "We appreciate your feedback! You can share your thoughts through our contact form or email us directly."
+  },
+  "property_availability": {
+    "questions": [
+      "how do I check property availability",
+      "are the properties listed available",
+      "can I see which houses are free"
+    ],
+    "answer": "You can check property availability on the listings page where each property shows its current status."
+  },
+  "house_size": {
+    "questions": [
+      "how is house size measured",
+      "what is the standard size for houses",
+      "do you provide house dimensions"
+    ],
+    "answer": "House size is typically measured in square feet or square meters. Each listing includes the dimensions."
+  },
+  "local_market_trends": {
+    "questions": [
+      "what are the current market trends",
+      "how is the real estate market doing",
+      "can you provide market insights"
+    ],
+    "answer": "We provide insights on local market trends through our blog and reports section."
+  },
+  "safety_measures": {
+    "questions": [
+      "what safety measures are in place",
+      "how do you ensure property security",
+      "are there any safety features"
+    ],
+    "answer": "Properties often include security systems, gated access, and neighborhood watch programs."
+  },
+  "environmental_impact": {
+    "questions": [
+      "how do you address environmental concerns",
+      "do you consider sustainability in properties",
+      "are eco-friendly options available"
+    ],
+    "answer": "We promote eco-friendly properties and sustainable practices in our listings."
+  },
+  "community_features": {
+    "questions": [
+      "what community features are available",
+      "do properties have community amenities",
+      "are there parks or recreational areas"
+    ],
+    "answer": "Many properties include access to community features like parks, gyms, and swimming pools."
+  },
+  "property_inspection": {
+    "questions": [
+      "can I inspect the property before booking",
+      "how do I arrange a property inspection",
+      "is an inspection required"
+    ],
+    "answer": "Property inspections can be arranged by contacting us. They are recommended but not mandatory."
+  },
+  "house_financing": {
+    "questions": [
+      "do you offer financing options",
+      "how can I finance a house purchase",
+      "are there mortgage options available"
+    ],
+    "answer": "We can connect you with financial institutions that offer mortgage and financing options."
+  },
+  "property_insurance": {
+    "questions": [
+      "do I need insurance for the property",
+      "what type of insurance is recommended",
+      "can you help with property insurance"
+    ],
+    "answer": "Property insurance is recommended to protect your investment. We can provide information on insurance providers."
+  },
+  "house_renovation": {
+    "questions": [
+      "can I renovate the property",
+      "do you allow renovations",
+      "what are the rules for property modifications"
+    ],
+    "answer": "Renovations are allowed with prior approval. Please check our renovation policy for details."
+  },
+  "neighborhood_information": {
+    "questions": [
+      "what is the neighborhood like",
+      "can you tell me about the area",
+      "are there schools and shops nearby"
+    ],
+    "answer": "Each listing includes information about the neighborhood, including schools, shops, and amenities."
+  },
+  "house_maintenance": {
+    "questions": [
+      "who is responsible for maintenance",
+      "how is property maintenance handled",
+      "do you provide maintenance services"
+    ],
+    "answer": "Maintenance responsibilities vary by property. Some include services, while others require owner management."
+  },
+  "property_upgrades": {
+    "questions": [
+      "can I upgrade the property features",
+      "are upgrades allowed",
+      "how do I request property upgrades"
+    ],
+    "answer": "Upgrades can be discussed with the property owner or management team. Please contact us for more information."
+  },
+  "document_requirements": {
+    "questions": [
+      "what documents do I need to provide",
+      "which papers are necessary for booking",
+      "documents required for booking"
+    ],
+    "answer": "You need to provide a valid citizenship card along with your phone number for booking."
+  },
+  "booking_modification": {
+    "questions": [
+      "can I modify my booking",
+      "how to change my booking details",
+      "is it possible to update my booking"
+    ],
+    "answer": "Booking modifications are allowed up to 48 hours before the scheduled date. Please contact support for assistance."
+  },
+  "late_payment": {
+    "questions": [
+      "what happens if I pay late",
+      "is there a penalty for late payment",
+      "late payment consequences"
+    ],
+    "answer": "Late payments may result in cancellation of your booking. Please ensure timely payment to avoid issues."
+  },
+  "house_insurance_options": {
+    "questions": [
+      "do you offer house insurance",
+      "can I insure the property",
+      "insurance options available"
+    ],
+    "answer": "We can help connect you with insurance providers for property insurance."
+  },
+  "house_listing_updates": {
+    "questions": [
+      "how often do you update listings",
+      "when is new property added",
+      "listing updates frequency"
+    ],
+    "answer": "Our property listings are updated daily to reflect the latest available houses."
+  },
+  "price_negotiation": {
+    "questions": [
+      "can I negotiate the price",
+      "is price negotiable",
+      "how to bargain for a house price"
+    ],
+    "answer": "Price negotiation depends on the property owner. Contact us to discuss your offer."
+  },
+  "site_security": {
+    "questions": [
+      "is my data safe on this site",
+      "how secure is the website",
+      "data protection measures"
+    ],
+    "answer": "We use industry-standard security measures to protect your data."
+  },
+  "mobile_app": {
+    "questions": [
+      "do you have a mobile app",
+      "is there an app for this service",
+      "can I use this on my phone"
+    ],
+    "answer": "Currently, we only have a website, but a mobile app is in development."
+  },
+  "booking_limits": {
+    "questions": [
+      "how many bookings can I make",
+      "is there a limit on bookings",
+      "booking restrictions"
+    ],
+    "answer": "There is no limit on the number of bookings you can make."
+  },
+  "special_offers": {
+    "questions": [
+      "do you offer discounts",
+      "are there any promotions",
+      "special offers available"
+    ],
+    "answer": "We periodically offer promotions. Subscribe to our newsletter to stay updated."
+  }
+}
+
+
